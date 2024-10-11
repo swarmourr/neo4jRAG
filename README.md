@@ -142,7 +142,6 @@ To get the API key from Together.ai, follow these steps:
 ├── README.md       # Project documentation
 ├── app.py          # Main Streamlit application file
 ├── data.cypher     # Cypher file to import the movie dataset
-├── ennoncer        # Additional module for processing
 ├── enrish.py       # Script for text enrichment
 ├── model.py        # Model definition and related logic
 ├── test_api.py     # Script for testing API integration
