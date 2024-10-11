@@ -111,7 +111,7 @@ To get the API key from Together.ai, follow these steps:
 
 ### Step 3: Testing the API
 
-1. Use `test_api.py` to test the Together API integration:
+1. Use `test_api.py` to test the Together API :
    ```python
    import os
    from together import Together
